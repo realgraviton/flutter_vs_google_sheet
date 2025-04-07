@@ -17,7 +17,7 @@ const _readinitial = r'''
 }
 ''';
 const wrgsheets = '1IBef22C_cNte8trgH5r0Q3p4WpDfasMEtaEoGgNyx1M';
-
+// ololo
 void main() async {
   //Инициализация таблицы
   final gsheets = GSheets(_readinitial);
